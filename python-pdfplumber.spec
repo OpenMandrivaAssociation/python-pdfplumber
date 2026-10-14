@@ -1,6 +1,6 @@
 Name:		python-pdfplumber
 Version:	0.11.10
-Release:	1
+Release:	2
 Summary:	Plumb a PDF for detailed information about each char, rectangle, and line
 License:	MIT
 Group:		Development/Python
